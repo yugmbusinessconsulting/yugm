@@ -55,8 +55,8 @@ const values = [
 const milestones = [
   {
     year: "2021",
-    title: "Founded in New Mumbai",
-    desc: "Yugm Business Consulting was established in New Mumbai with a focus on DSA loan services, helping individuals and businesses access credit facilities through leading banks.",
+    title: "Founded in Navi Mumbai",
+    desc: "Yugm Business Consulting was established in Navi Mumbai with a focus on DSA loan services, helping individuals and businesses access credit facilities through leading banks.",
     color: C.gold,
   },
   {
@@ -80,7 +80,7 @@ const milestones = [
 ];
 
 const areas = [
-  { city: "New Mumbai", sub: "Head Office" },
+  { city: "Navi Mumbai", sub: "Head Office" },
   { city: "Pune", sub: "Active Client Base" },
   { city: "Mumbai", sub: "Corporate Clients" },
   { city: "Nashik", sub: "Business & SME" },
@@ -262,7 +262,7 @@ export default function AboutPage() {
                 Yugm Business Consulting was founded with a simple but powerful belief — that every individual and business deserves access to professional financial, operational, and digital expertise, not just large corporations with big budgets.
               </p>
               <p style={{ fontSize: 16, color: C.muted, lineHeight: 1.8, marginBottom: 18 }}>
-                Based in New Mumbai, Maharashtra, we have been serving clients for over three years. Our team brings together expertise in finance, taxation, human resources, digital marketing, information technology, and business law — giving clients a truly integrated support system.
+                Based in Navi Mumbai, Maharashtra, we have been serving clients for over three years. Our team brings together expertise in finance, taxation, human resources, digital marketing, information technology, and business law — giving clients a truly integrated support system.
               </p>
               <p style={{ fontSize: 16, color: C.muted, lineHeight: 1.8 }}>
                 Whether you are a salaried individual filing your first ITR, a trader navigating F&O taxation, a startup building your HR framework, or an established business seeking growth advisory — Yugm is your dedicated partner at every stage.

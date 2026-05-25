@@ -284,7 +284,7 @@ export default function Footer() {
                   marginTop: 6,
                 }}
               >
-                New Mumbai, Maharashtra
+                Navi Mumbai, Maharashtra
               </p>
             </div>
           </div>

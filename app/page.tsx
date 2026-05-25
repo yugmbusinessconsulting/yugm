@@ -84,7 +84,7 @@ const testimonials = [
     quote:
       "Yugm made my home loan process incredibly smooth. They handled all documentation, found the best bank rate, and disbursement happened within two weeks. Truly professional service.",
     name: "Rajesh Patil",
-    role: "Home Loan Client, New Mumbai",
+    role: "Home Loan Client, Navi Mumbai",
     initial: "R",
     color: "#0d2b4e",
   },
@@ -455,7 +455,7 @@ export default function HomePage() {
                   marginBottom: 12,
                 }}
               >
-                Based in New Mumbai, Maharashtra, Yugm Business
+                Based in Navi Mumbai, Maharashtra, Yugm Business
                 Consulting has been empowering individuals and businesses for
                 over three years with integrated financial, consulting, and
                 technology solutions.
@@ -1109,7 +1109,7 @@ export default function HomePage() {
                   {
                     ContactIcon: MapPin,
                     value:
-                      "New Mumbai,\nMaharashtra, India",
+                      "Navi Mumbai,\nMaharashtra, India",
                   },
                   {
                     ContactIcon: Phone,

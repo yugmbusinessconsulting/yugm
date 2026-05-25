@@ -24,7 +24,7 @@ const contactDetails = [
     icon: "📍",
     label: "Head Office",
     lines: [
-      "New Mumbai,",
+      "Navi Mumbai,",
       "Maharashtra",
       "India",
     ],
@@ -73,7 +73,7 @@ const faqs = [
     a: "Yes. Our initial consultation is completely free and carries no obligation. We will understand your requirements and suggest the right service before any commitment.",
   },
   {
-    q: "Can I get services if I am outside New Mumbai?",
+    q: "Can I get services if I am outside Navi Mumbai?",
     a: "Absolutely. We serve clients across Maharashtra through doorstep visits and fully online service delivery. Location is not a barrier.",
   },
   {
