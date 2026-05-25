@@ -39,7 +39,7 @@ const contactDetails = [
   {
     icon: "✉️",
     label: "Email Address",
-    lines: ["info@yugmbusiness.in"],
+    lines: ["info@yugmbusiness.com"],
     action: "mailto",
   },
   {
@@ -192,7 +192,7 @@ export default function ContactPage() {
               📞 +91-7304227714
             </a>
             <a
-              href="mailto:info@yugmbusiness.in"
+              href="mailto:info@yugmbusiness.com"
               style={{
                 display: "inline-flex",
                 alignItems: "center",
@@ -207,7 +207,7 @@ export default function ContactPage() {
                 textDecoration: "none",
               }}
             >
-              ✉️ info@yugmbusiness.in
+              ✉️ info@yugmbusiness.com
             </a>
           </div>
         </div>

@@ -267,14 +267,14 @@ export default function Footer() {
                 +91-7304227714
               </a>
               <a
-                href="mailto:info@yugmbusiness.in"
+                href="mailto:info@yugmbusiness.com"
                 style={{
                   fontSize: 13.5,
                   color: "rgba(255,255,255,.5)",
                   textDecoration: "none",
                 }}
               >
-                info@yugmbusiness.in
+                info@yugmbusiness.com
               </a>
               <p
                 style={{

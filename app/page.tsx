@@ -1120,7 +1120,7 @@ export default function HomePage() {
                   {
                     ContactIcon: Mail,
                     label: "Email",
-                    value: "info@yugmbusiness.in",
+                    value: "info@yugmbusiness.com",
                     isEmail: true,
                   },
                   {
